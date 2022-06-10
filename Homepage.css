@@ -1,0 +1,30 @@
+body{
+    
+    background-color: antiquewhite;
+   font-family: "arial", Georgia, arial;
+    overflow-y: auto;
+    overflow-x: auto;
+    
+
+}
+#Vakken {
+    border-color: ;
+    border-width: 3px;
+    color: rgb(190, 163, 144)
+    }
+        
+h4 a{
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: : 5px;  
+    
+}
+#over sinelco {
+    
+    overflow: auto;
+}
+#Over mij{
+    
+    text-align: justify;
+}
