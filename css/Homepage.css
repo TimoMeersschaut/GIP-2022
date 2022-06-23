@@ -28,3 +28,11 @@ h4 a{
     
     text-align: justify;
 }
+   h1, h2, h3, h4, h5, h6 {
+	    font-family: "Playfair Display";
+	    letter-spacing: 5px;
+	   }
+.profielfoto img{
+    width: 40%;
+    float: right;
+}
